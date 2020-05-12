@@ -1,0 +1,12 @@
+{
+  "name": "crawlerNode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ThiagoPanchi/crawlerNode.git",
+  "author": "Thiago Panchiniak <panchiniak@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "request": "^2.88.2"
+  }
+}
